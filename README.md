@@ -1,5 +1,5 @@
 # Heart_Disease_Prediction_Notebook
-Hi, welcome to my data science capstone project!
+Hi, welcome to my data science capstone project! In this project, I am gonna introduce to you how I create a model to predict heart disease possibility based on current health status. 
 
 ## File detail
 - Paperwork
